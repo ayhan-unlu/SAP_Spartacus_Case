@@ -23,7 +23,7 @@ Part 1
 Part 2
 <br>- Write a dao and service class that lists the number 1 in the Product's code.
 <br>- Create a field of type integer above the product.
-<br>-
+<br>
 
 
 
