@@ -6,4 +6,3 @@ Create a boolean field on the Product.
 Part 2
 Write a dao and service class that lists the number 1 in the Product's code.
 Create a field of type integer above the product.
-Write a cronjob and use the dao and service you have written here, and write how many times the number 1 in the code of the products you found using the service you wrote in item a is in the field you created in item b.
