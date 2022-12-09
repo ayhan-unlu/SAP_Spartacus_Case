@@ -13,7 +13,9 @@ ebebek  Java &amp; QA &amp; SAP Spartacus Practicum
 ## Project Summary
 <br>
 ## Content 
+<br>
 ### Language: SAP 
+<br>
 ### Part 1 
 <br>Create a boolean field on the Product.
 <br>  Index this field to solr and show it on the product listing page.
