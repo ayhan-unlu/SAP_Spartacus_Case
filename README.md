@@ -19,6 +19,7 @@ ebebek  Java &amp; QA &amp; SAP Spartacus Practicum
 ### Part 1 
 <br>Create a boolean field on the Product.
 <br>  Index this field to solr and show it on the product listing page.
+<br>
 ### Part 2
 <br>Write a dao and service class that lists the number 1 in the Product's code.
 <br>Create a field of type integer above the product.
