@@ -12,18 +12,18 @@ ebebek  Java &amp; QA &amp; SAP Spartacus Practicum
 
 ## Project Summary
 <br>
-## Content 
+ Content 
 <br>
-### Language: SAP 
+ Language: SAP 
 <br>
-### Part 1 
-<br>Create a boolean field on the Product.
-<br>  Index this field to solr and show it on the product listing page.
+Part 1 
+<br>- Create a boolean field on the Product.
+<br>  . Index this field to solr and show it on the product listing page.
 <br>
-### Part 2
-<br>Write a dao and service class that lists the number 1 in the Product's code.
-<br>Create a field of type integer above the product.
-<br>Write a cronjob and use the dao and service you have written here, and write how many times the number 1 in the code of the products you found using the service you wrote in item a is in the field you created in item b.The following items must be performed with Selenium Webdriver.
+Part 2
+<br>- Write a dao and service class that lists the number 1 in the Product's code.
+<br>- Create a field of type integer above the product.
+<br>- Write a cronjob and use the dao and service you have written here, and write how many times the number 1 in the code of the products you found using the service you wrote in item a is in the field you created in item b.The following items must be performed with Selenium Webdriver.
 <br>
 
 
